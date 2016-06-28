@@ -2,7 +2,7 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## Welcome to my GHzone
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+Until you make peace with who you are, you’ll never be content with what you have.
+
