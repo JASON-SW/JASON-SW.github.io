@@ -19,7 +19,7 @@ newsourceroot: https://github.com/JASON-SW/JASON-SW.github.io
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
-disqus_shortname: SW
+disqus_shortname: jasonshi
 disqus_url: "http://JASON-SW.github.io"
 #########################################
 
